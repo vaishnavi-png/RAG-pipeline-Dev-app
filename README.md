@@ -4,7 +4,7 @@ Two ongoing experiments in embedding-based content moderation and authenticity d
 
 ## What this repo is
 
-This explores whether sentence-embedding models can be used to (1) tell AI-generated text
+This explores whether we can use vector embedding models to: (1) tell AI-generated text
 apart from human-written text by *style* rather than topic, and (2) detect a conversation
 quietly drifting from legal to illegal intent across multiple turns, rather than flagging
 any single message in isolation.
